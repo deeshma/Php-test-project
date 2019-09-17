@@ -10,3 +10,4 @@ login page using php
  when user logouts all session variable will destroy
  
  
+tp_connects is mysql database name and user is table name.tp_connect.sql file is structure of database.
